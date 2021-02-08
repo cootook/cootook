@@ -1,6 +1,5 @@
 ### Hi there 👋
----------------- | ----------------
-<img width="49%" height="200em" align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=cootook&show_icons=true?count_private=true&theme=dark"> | <img width="49%" height="200em" align="right" alt="My Github Lnguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cootook&layout=compact&langs_count=8&theme=dark">
+<img width="100%" height="200em" align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=cootook&show_icons=true?count_private=true&theme=dark"> | <img width="100%" height="200em" align="right" alt="My Github Lnguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cootook&layout=compact&langs_count=8&theme=dark">
 ---------------- | ----------------
  
 
