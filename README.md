@@ -3,7 +3,7 @@
 <img width="100%" height="200px" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=cootook&show_icons=true?count_private=true&theme=dark"> | <img width="100%" height="200px" alt="My Github Lnguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cootook&layout=compact&langs_count=8&theme=dark">
 -------------------- | ---------------------
 ## ✨ Take a look
-💥 Rolling Scopes School final project  
+- 💥 Rolling Scopes School final project  
 - [x] https://clone-wars-labirint.netlify.app/  
 💥 Rolling Scopes School team progect (thanks to mentor @kirillparamonov)  
 - [x] https://covid-dashboard-by-f-o-c.netlify.app/  
