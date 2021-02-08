@@ -4,21 +4,21 @@
 -------------------- | ---------------------
 ## ✨ Take a look
 💥 Rolling Scopes School final project  
-[x] https://clone-wars-labirint.netlify.app/  
+- [x] https://clone-wars-labirint.netlify.app/  
 💥 Rolling Scopes School team progect (thanks to mentor @kirillparamonov)  
-[x] https://covid-dashboard-by-f-o-c.netlify.app/  
+- [x] https://covid-dashboard-by-f-o-c.netlify.app/  
 💥 English learning app, speech synthesys was used   
-[x] https://english-for-kids-by-cootook.netlify.app/  
+- [x] https://english-for-kids-by-cootook.netlify.app/  
 💥 Classic 15 game. Animated auro ending game. Avaliable fields from 3x3 to 10x10.  
-[x] https://rolling-scopes-school.github.io/cootook-JS2020Q3/gem-puzzle/  
+- [x] https://rolling-scopes-school.github.io/cootook-JS2020Q3/gem-puzzle/  
 💥 Virtual keyboard, it can be used as module in any app. I COVID dashboard for example. Avaliable speech recognition.  
-[x] https://rolling-scopes-school.github.io/cootook-JS2020Q3/virtual-keyboard/  
+- [x] https://rolling-scopes-school.github.io/cootook-JS2020Q3/virtual-keyboard/  
 💥 Simple calculator  
-[x] https://rolling-scopes-school.github.io/cootook-JS2020Q3/calculator/  
+- [x] https://rolling-scopes-school.github.io/cootook-JS2020Q3/calculator/  
 💥 Momentum App.   
-[x] https://rolling-scopes-school.github.io/cootook-JS2020Q3/momentum/  
+- [x] https://rolling-scopes-school.github.io/cootook-JS2020Q3/momentum/  
 💥 Pixel Perfect pages from Figma  
-[x] https://rolling-scopes-school.github.io/cootook-JS2020Q3/shelter/pages/main/main.html  
+- [x] https://rolling-scopes-school.github.io/cootook-JS2020Q3/shelter/pages/main/main.html  
 
 
 
