@@ -2,9 +2,7 @@
 
 ## ✨ Take a look
 - 💥 Rolling Scopes School final project  
-https://clone-wars-labirint.netlify.app/  
-- 💥 Rolling Scopes School team progect (thanks to mentor @kirillparamonov)  
-https://covid-dashboard-by-f-o-c.netlify.app/  
+https://clone-wars-labirint.netlify.app/   
 - 💥 English learning app, speech synthesys was used   
 https://english-for-kids-by-cootook.netlify.app/  
 - 💥 Classic 15 game. Animated auro ending game. Avaliable fields from 3x3 to 10x10.  
