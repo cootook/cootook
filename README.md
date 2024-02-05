@@ -1,6 +1,10 @@
 <img width="49%" height="200px" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=cootook&show_icons=true?count_private=true&theme=dark"> <img width="49%" height="200px" alt="My Github Lnguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cootook&layout=compact&langs_count=8&theme=dark">  
 
-## ✨ Take a look
+## 🔭 I’m currently working on **[project](https://github.com/cootook/project)**
+**kanban** for that project you can find [here](https://github.com/users/cootook/projects/1/views/1)
+👯 Any contributors are welcome!
+
+## ✨ Take a look at my previouse things
 - 💥 Rolling Scopes School final project  
 https://clone-wars-labirint.netlify.app/   
 - 💥 English learning app, speech synthesys was used   
