@@ -1,5 +1,4 @@
-<img width="80%" height="5%" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=cootook&show_icons=true?count_private=true&theme=dark"> 
-<img width="80%" height="5%" alt="My Github Lnguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cootook&layout=compact&langs_count=8&theme=dark">  
+
 
 # 🌱 in progres... **[project](https://github.com/cootook/project)**
 
@@ -18,6 +17,9 @@ https://rolling-scopes-school.github.io/cootook-JS2020Q3/virtual-keyboard/
 
 
 <!--
+
+<img width="80%" height="5%" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=cootook&show_icons=true?count_private=true&theme=dark"> 
+<img width="80%" height="5%" alt="My Github Lnguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cootook&layout=compact&langs_count=8&theme=dark">  
 **cootook/cootook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
