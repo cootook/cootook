@@ -1,5 +1,5 @@
-<img width="48%" height="10%" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=cootook&show_icons=true?count_private=true&theme=dark"> 
-<img width="48%" height="10%" alt="My Github Lnguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cootook&layout=compact&langs_count=8&theme=dark">  
+<img width="80%" height="5%" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=cootook&show_icons=true?count_private=true&theme=dark"> 
+<img width="80%" height="5%" alt="My Github Lnguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cootook&layout=compact&langs_count=8&theme=dark">  
 
 # 🌱 in progres... **[project](https://github.com/cootook/project)**
 
