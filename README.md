@@ -2,12 +2,12 @@
 
 # 🌱 in progres... **[project](https://github.com/cootook/project)**
 
+booking app for nail, hair, massage etc salon
+
 👯 contributors are welcome!
 
-# ✨ Take a look at my previouse things
+# ✨ Take a look
 
-- 💥 Rolling Scopes School final project  
-https://clone-wars-labirint.netlify.app/    
 - 💥 Classic 15 game. This app can solve it, can you?)).  
 https://rolling-scopes-school.github.io/cootook-JS2020Q3/gem-puzzle/  
 - 💥 Virtual keyboard, it can be used as module in any app. Speach recognition by google API.
