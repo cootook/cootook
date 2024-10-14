@@ -8,9 +8,11 @@ booking app for nail, hair, massage etc salon
 
 # ✨ Take a look
 
-- 💥 Classic 15 game. This app can solve it, can you?)).  
+- 💥 Classic 15 game. This app can solve it, can you?)).
+
 https://rolling-scopes-school.github.io/cootook-JS2020Q3/gem-puzzle/  
 - 💥 Virtual keyboard, it can be used as module in any app. Speach recognition by google API.
+
 https://rolling-scopes-school.github.io/cootook-JS2020Q3/virtual-keyboard/  
 
 
