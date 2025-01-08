@@ -1,6 +1,6 @@
 
 
-# 🌱 in progres... **[project](https://github.com/cootook/project)**
+# 🌱 in progres... **[ManiAuraByRusa.com](https://github.com/cootook/maniaurabyrusa)**
 
 booking app for nail, hair, massage etc salon
 
