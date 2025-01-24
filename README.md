@@ -6,14 +6,9 @@ booking app for nail salon
 
 👯 contributors are welcome!
 
-# ✨ Take a look
+- Python/Flask
+- HTMX
 
-- 💥 Classic 15 game. This app can solve it, can you?)).
-
-https://rolling-scopes-school.github.io/cootook-JS2020Q3/gem-puzzle/  
-- 💥 Virtual keyboard, it can be used as module in any app. Speach recognition by google API.
-
-https://rolling-scopes-school.github.io/cootook-JS2020Q3/virtual-keyboard/  
 
 
 
