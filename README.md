@@ -1,13 +1,13 @@
 
 
 # 🌱 in progres... **[ManiAuraByRusa.com](https://github.com/cootook/ManyAuraByRusa.com)**
-
 booking app for nail salon
-
-👯 contributors are welcome!
-
+👯 contributors are welcome:
 - Python/Flask
 - HTMX
+
+
+contact via **[LinkedIn](https://www.linkedin.com/in/cootook/)**
 
 
 
